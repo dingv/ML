@@ -1,4 +1,4 @@
-# learning-algorithms
+# ml-classifiers (machine learning classifiers)
 Code available upon request.
 
 Two learning algorithms completely implemented in Python using only 'math' and 'string' built-in libraries.
