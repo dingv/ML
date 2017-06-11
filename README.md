@@ -1,4 +1,4 @@
-# ml-classifiers (machine learning classifiers)
+# ML-classifiers (machine learning classifiers)
 Two learning algorithms completely implemented in Python using only `math` and `string` built-in libraries.
 
 Code available upon request.
